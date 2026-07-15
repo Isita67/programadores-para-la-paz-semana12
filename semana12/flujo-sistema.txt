@@ -1,0 +1,6 @@
+1. El ciudadano inicia sesión en la plataforma.
+2. Selecciona la opción **"Crear petición"** y completa el formulario.
+3. El sistema valida la información y guarda la petición en la base de datos.
+4. La petición se publica para que otros ciudadanos puedan verla y apoyarla.
+5. Cada nuevo apoyo se registra y se suma al total de la petición.
+6. Cuando la petición finaliza, el sistema genera un informe con la cantidad de apoyos obtenidos.

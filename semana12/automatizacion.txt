@@ -1,0 +1,5 @@
+Evento: nuevo usuario registrado en la plataforma.
+
+Mensaje: "Se ha registrado un nuevo usuario correctamente. Revise la plataforma para más detalles."
+
+Información que no debe enviarse: números de identificación (cédulas), teléfonos, direcciones, correos electrónicos, contraseñas, comentarios privados, documentos adjuntos ni cualquier otro dato personal o sensible.

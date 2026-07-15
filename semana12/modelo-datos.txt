@@ -1,0 +1,3 @@
+Causa: sirve para guardar la información de cada petición o causa creada por un ciudadano, como el título, la descripción y la fecha.
+
+Apoyo: sirve para registrar las personas que apoyan una causa, guardando su nombre y la fecha en que dieron el apoyo.
